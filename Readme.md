@@ -103,9 +103,9 @@ I help businesses and individuals solve their problems through creating digital 
 
 ## 📈 GitHub Stats
 
-![Nivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Nivesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hey-nivesh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-nivesh&layout=compact&theme=radical)
 
 ---
 
@@ -137,13 +137,7 @@ I'm always excited to collaborate on innovative projects and help bring your ide
 - **Location**: Ghaziabad, Uttar Pradesh, India
 - **Response Time**: Within 24 hours
 
-### 🔗 Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
 
----
 
 ## 🎯 Current Focus
 
@@ -157,7 +151,7 @@ I'm always excited to collaborate on innovative projects and help bring your ide
 
 ### ⭐ If you find my work interesting, don't forget to star my repositories!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hey-nivesh.hey-nivesh)
 
 ---
 
